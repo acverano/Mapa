@@ -1,0 +1,6 @@
+{
+  "name": "Lakbay-Lahi: Interaktibong Atlas ng Katutubong Pilipino",
+  "description": "Isang interaktibong atlas na naglalaman ng lokasyon, sining, kabuhayan, at tradisyon ng 10 katutubong pamayanan sa Luzon, Visayas, at Mindanao. Perpekto para sa edukasyon at presentasyon sa klase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
